@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Jayesh 👋
 
-<!--
-**Jayesh-Sule/Jayesh-Sule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BTech CSE @ VIT Bhopal**
+💻 Aspiring Developer passionate about coding & problem-solving
+🚀 Currently learning **DSA, Web Development & Python**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+![Python](Problem Solving , Basics of DSA)
+
+### 🌐 Web Development
+
+* HTML(Structure & Layout)
+
+### ⚙️ Tools & Platforms
+* Git & GitHub (Version Control)
+* VS Code (Development Environment)
+* Basic Terminal / Command Line Usage
+
+---
+## 🌐 Connect with me
+
+* Linkedin: www.linkedin.com/in/jayesh-sule-77536a3a5
+* Gmail:jayeshvit.py@gmail.com
+
+---
+
+## ✨ About Me
+
+* 💡 Interested in **Software Development & Problem Solving**
+* 📚 Currently focusing on **Data Structures & Algorithms**
+* 🎯 Goal: Become a skilled **Software Engineer**
+
+---
+
+## ✨ Quote
+
+*"Code. Learn. Build. Repeat."* 💡
