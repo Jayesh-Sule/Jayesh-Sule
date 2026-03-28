@@ -10,7 +10,7 @@
 
 ### 💻 Languages
 
-![Python](Problem Solving , Basics of DSA)
+* Python (Problem Solving , Basics of DSA)
 
 ### 🌐 Web Development
 
